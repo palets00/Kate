@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Корзина</title>
+    <meta name="Description" content="Описание состава блюда">
+    <meta name="Keywords" content="еда, доставка, ресторан, итальянская кухня, пицца">
+    <title>Товар ресторана итальянской кухни</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <script>
@@ -112,11 +114,11 @@
     </div>
 
     <div class="itog">
-        <div class="itog-text">
+        <!-- <div class="itog-text">
             <div class="itog-c">Итого: <span style="font-size: 48px;">500 ₽</span></div>
             <div class="itog-free">До бесплатной доставки не хватет: <span style="color: green">100 ₽</span></div>
             <div class="itog-min">Минимальная сума заказа 1500 ₽</div>
-        </div>
+        </div> -->
         <div class="to-cart" onclick="window.location.href='zakaz.php'">
             <div>Оформить заказ</div>
         </div>

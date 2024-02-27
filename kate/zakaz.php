@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Оформление</title>
+    <meta name="Description" content="Доставка/самовывоз еды">
+    <meta name="Keywords" content="еда, доставка, ресторан, итальянская кухня, пицца">
+    <title>Доставка с ресторана</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
@@ -68,11 +70,11 @@
             <div class="b-head">2. Доставка</div>
             <div class="buttons">
                 <div class="buttons-b">
-                    <div class="chossen l"><div>Доставка</div></div>
-                    <div class="chossen r"><div>Самовывоз</div></div>
-                </div>
-                <div>Доставим через  1 час 30 минут</div>
+                    <button class="chossen.l">Доставка</button>
+                    <button class="chossen.r">Самовывоз</button>
+                </div> 
             </div>
+         
             <div class="b-head" style="font-size: 22px;">Адрес доставки</div>
             <div class="inputs-2">
                 <div style="width: 78%;"><input type="text" placeholder="Укажите улицу*"></div>
@@ -97,12 +99,9 @@
         <div class="block">
             <div class="b-head">4. Когда доставить</div>
             <div class="pop">
-                <div class="buttons-b a3"  style="width: 60%;">
-                    <div class="chossen l2"><div>Оплата онлайн</div></div>
-                    <div class="chossen r2"><div>Наличными</div></div>
-                </div>
+                
                 <div class="inputs-2">
-                    <div style="width: 40%;"><input type="text" placeholder="Укажите время"></div>
+                    <div style="width: 40%;"><input type="time" placeholder="Укажите время"></div>
                 </div>
             </div>
             <div class="inputs-2">

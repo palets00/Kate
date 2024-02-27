@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Товар</title>
+    <meta name="Description" content="Выбор блюда">
+    <meta name="Keywords" content="еда, доставка, ресторан, итальянская кухня, пицца">
+    <title>Товар ресторана итальянской кухни</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>

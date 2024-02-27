@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Главная</title>
+    <meta name="Description" content="Главная страница ресторана итальянской кухни">
+    <meta name="Keywords" content="еда, доставка, ресторан, итальянская кухня, пицца">
+    <title>«Порапоесть», ресторан итальянской кухни с доставкой</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>

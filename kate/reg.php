@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Регистрация</title>
+    <meta name="Description" content="Регистрация аккаунта доставки с ресторана">
+    <meta name="Keywords" content="еда, доставка, ресторан, итальянская кухня, пицца">
+    <title>Регистрация доставки с ресторана</title>
     <link rel="stylesheet" href="style.css">
 </head>
 

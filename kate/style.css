@@ -632,9 +632,9 @@ footer{
 .inputs-2 input{
     height: 80px;
     width: 100%;
-    border-radius: 20px;
+    border-radius: 40px;
     background: none;
-    font-size: 20px;
+    font-size: 40px;
     border: #CFCFCF solid 1px;
     color: white;
 }
